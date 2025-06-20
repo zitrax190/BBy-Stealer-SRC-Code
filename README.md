@@ -1,10 +1,15 @@
 ### _BBY-Stealer Source code_ 
 
 ###   **Features**
+ 
  **-Wallet Grabbing: Extracts cryptocurrency wallet information.
+
  -Password Capture: Gathers saved passwords from browsers.
+ 
  -Cookie Theft: Retrieves cookies from web sessions.
+ 
  -Discord Client Modification: Alters the Discord client for various functionalities.
+ 
  -User-Friendly Interface: Simple setup and execution process.**
 
 ###   **Disclaimer**
