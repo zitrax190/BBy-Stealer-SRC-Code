@@ -2,7 +2,7 @@
 
 ###   **Features**
  
- **-Wallet Grabbing: Extracts cryptocurrency wallet information.
+ -Wallet Grabbing: Extracts cryptocurrency wallet information.
 
  -Password Capture: Gathers saved passwords from browsers.
  
@@ -10,7 +10,7 @@
  
  -Discord Client Modification: Alters the Discord client for various functionalities.
  
- -User-Friendly Interface: Simple setup and execution process.**
+ -User-Friendly Interface: Simple setup and execution process.
 
 ###   **Disclaimer**
 **-This software is intended for personal education and sandbox testing. We do not take responsibility for any damages or illegal activities resulting from the use of this software. Always use ethical practices when testing cybersecurity tools.**
