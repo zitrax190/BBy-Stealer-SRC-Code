@@ -19,5 +19,7 @@
 For any inquiries or issues, feel free to reach out:
 
 Email: [zitrax@boxifi.uk](mailto:zitrax@boxifi.uk)
+
 GitHub: [zitrax](https://github.com/zitrax190)
+
 Discord: 42x1
